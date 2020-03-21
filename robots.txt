@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soobierequ.xn--daniellidstrm-tmb.se/sitemap.xml
